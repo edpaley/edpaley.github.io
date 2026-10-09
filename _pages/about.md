@@ -26,9 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+Heya, I'm Eila, a student at the University of Maryland, College Park pursuing a dual degree in [Computer Science](https://www.cs.umd.edu/) and [Immersive Media Design](https://imd.umd.edu/), graduating May 2028. I'm fascinated by 
 
-I move between mostly sculpture, video games, and virtual reality as I’m still learning what each of them can do for me. They are the three that I’ve continued to come back to, though I love to dip my toes into a new program or medium. What pulls me into creation, more than any specific material, is the act of putting something out into the world that wasn’t there before.
+Over the last year I've been doing research Prof. [Myungin Lee](https://www.myunginlee.com/) on Ecological AI & Interactive Data Embodiment, which led to our paper being accepted at NuerIPS 2025. Since, I've been solely developing an application for a research hypothesis relating to Real-Time Embodied AI Clones in Social VR with Prof. [Huaishu Peng](https://huaishu.me/) alongside Prof. Lee. Currently, I am working under Dr. [Sarah Muthi](https://www.mixrcenter.org/sarahmurthi) at the [MIXR Center](https://www.mixrcenter.org/) to find Strategies to Optimize XR Training, primarily through a Automated CAD-to-XR Asset Pipeline.
 
-My work typically starts in one of three places: something I feel obligated to respond to, a feeling I can’t describe, or a piece by another artist that excites my imagination. I’ve fashioned a solid wooden block from jigsaw-like scrap pieces that displays an incrementing counter of lumber harvested in units of the block’s mass. Recently, I created a filter that captures how it feels to dissociate.  Another time I aimed to capture the beauty of flocking starlings in a virtual reality scene. I don’t like to stick to a single theme; I prefer the freedom of being able to share any message.
-
-Because I work across physical and virtual spaces, my process is largely trial and error. I'd rather keep making things I don't fully know how to build yet than repeat what I already know how to do. 
+My personal interests include game development as well as visual art, largely sculpture and drawing. My professional work intersects computer science and art, and I'm drawn to projects that use immersive media for social good, particularly in health or climate. I plan to apply for graduate programs in a human-computer interaction or similar for Fall 2028.
