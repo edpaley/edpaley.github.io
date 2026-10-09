@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I move between mostly sculpture, video games, and virtual reality as I’m still learning what each of them can do for me. They are the three that I’ve continued to come back to, though I love to dip my toes into a new program or medium. What pulls me into creation, more than any specific material, is the act of putting something out into the world that wasn’t there before.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My work typically starts in one of three places: something I feel obligated to respond to, a feeling I can’t describe, or a piece by another artist that excites my imagination. I’ve fashioned a solid wooden block from jigsaw-like scrap pieces that displays an incrementing counter of lumber harvested in units of the block’s mass. Recently, I created a filter that captures how it feels to dissociate.  Another time I aimed to capture the beauty of flocking starlings in a virtual reality scene. I don’t like to stick to a single theme; I prefer the freedom of being able to share any message.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Because I work across physical and virtual spaces, my process is largely trial and error. I'd rather keep making things I don't fully know how to build yet than repeat what I already know how to do. 
