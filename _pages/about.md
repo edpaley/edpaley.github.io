@@ -30,4 +30,6 @@ Heya, I'm Eila, a student at the University of Maryland, College Park pursuing a
 
 Over the last year I've been doing research Prof. [Myungin Lee](https://www.myunginlee.com/) on Ecological AI & Interactive Data Embodiment, which led to our paper being accepted at NuerIPS 2025. Since, I've been solely developing an application for a research hypothesis relating to Real-Time Embodied AI Clones in Social VR with Prof. [Huaishu Peng](https://huaishu.me/) alongside Prof. Lee. Currently, I am working under Dr. [Sarah Muthi](https://www.mixrcenter.org/sarahmurthi) at the [MIXR Center](https://www.mixrcenter.org/) to find Strategies to Optimize XR Training, primarily through a Automated CAD-to-XR Asset Pipeline.
 
-My personal interests include game development as well as visual art, largely sculpture and drawing. My professional work intersects computer science and art, and I'm drawn to projects that use immersive media for social good, particularly in health or climate. I plan to apply for graduate programs in a human-computer interaction or similar for Fall 2028.
+My professional work intersects computer science and art, and I'm drawn to projects that use immersive media for social good, particularly in health or climate. My personal interests include game development as well as visual art, largely sculpture and drawing. 
+
+I plan to apply for graduate programs in a human-computer interaction or similar for Fall 2028.
