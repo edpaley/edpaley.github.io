@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Computer, Mathematical, and Natural Sciences</p>
-    <p>University of Maryland</p>
-    <p>College Park, Maryland</p>
+    <p></p>
+    <p></p>
+    <p></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,6 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+
 Heya, I'm Eila, a student at the University of Maryland, College Park pursuing a dual degree in [Computer Science](https://www.cs.umd.edu/) and [Immersive Media Design](https://imd.umd.edu/), graduating May 2028. I'm fascinated by 
 
 Over the last year I've been doing research Prof. [Myungin Lee](https://www.myunginlee.com/) on Ecological AI & Interactive Data Embodiment, which led to our paper being accepted at NuerIPS 2025. Since, I've been solely developing an application for a research hypothesis relating to Real-Time Embodied AI Clones in Social VR with Prof. [Huaishu Peng](https://huaishu.me/) alongside Prof. Lee. Currently, I am working under Dr. [Sarah Muthi](https://www.mixrcenter.org/sarahmurthi) at the [MIXR Center](https://www.mixrcenter.org/) to find Strategies to Optimize XR Training, primarily through a Automated CAD-to-XR Asset Pipeline.
