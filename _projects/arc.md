@@ -34,15 +34,24 @@ This work was published at NuerIPS 2025 {% cite arc %}. Additionally, it was ins
     </div>
 </div>
 <div class="caption">
-  a) Exemplary setup for the Sensorium Arc exhibition. <br>
-  Users engage through a natural gesture, whispering into a seashell as if speaking to the ocean. <br>
+  a) Exemplary setup for the Sensorium Arc exhibition<br>
   b) User interface before activation showing the sensors<br>
-  c) Activated user interface showing the response from the system.<br>
+  c) Activated user interface showing the response from the system<br>
 </div>
 
 ## My Role
 
 Co-architected the multi-agent AI framework, designing agent roles, data retrieval workflows, and Whisper STT voice processing while benchmarking LLMs for optimal performance. I also authored custom shaders to map and render image-based scientific datasets into real-time visuals. Following NeurIPS, I spearheaded the transition from a Unity-native ML setup (Sentis and UnDream) to a hybrid Python-Unity pipeline to maximize customizability and execution speed.
+
+<div class="caption">
+  System Diagram for Arc as presented at NeurIPS 2025
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project/sensorium_diagram.png" title="System Diagram for NeurIPS 2025" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 
 ## Process
 
@@ -50,11 +59,15 @@ How you built it, and one or two interesting design or technical challenges you 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project/sensorium_diagram.png" title="System Diagram for NeurIPS 2025" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project/sensorium_viz.png" title="5" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-  System Diagram for Arc as presented at NeurIPS 2025
+ Screenshots of the different exemplary scenarios<br>
+(a) Default globe view before user interaction<br>
+(b) Chlorophyll concentration data visualized on the globe surface<br>
+(c) Water clarity rendered using layers of hyperspectral diffuse attenuation coefficient (Kd) data from NASA's PACE satellite (2024)<br>
+(d) Combined visualization of atmospheric CO2 levels and ocean surface wind flow, highlighting interconnected nature<br>
 </div>
 
 ## Outcome
