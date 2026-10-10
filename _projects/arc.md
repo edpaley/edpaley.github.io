@@ -33,7 +33,8 @@ This work was published at NuerIPS 2025. Additionally, it was installed and exhi
     </div>
 </div>
 <div class="caption">
-  a) Exemplary setup for the Sensorium Arc exhibition. Users engage through a natural gesture, whispering into a seashell as if speaking to the ocean. <br>
+  a) Exemplary setup for the Sensorium Arc exhibition. <br>
+  Users engage through a natural gesture, whispering into a seashell as if speaking to the ocean. <br>
   b) User interface before activation showing the sensors<br>
   c) Activated user interface showing the response from the system.<br>
 </div>
