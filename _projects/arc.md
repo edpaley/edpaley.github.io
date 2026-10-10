@@ -51,6 +51,9 @@ How you built it, and one or two interesting design or technical challenges you 
         {% include figure.liquid loading="eager" path="assets/img/project/sensorium_diagram.png" title="System Diagram for NeurIPS 2025" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="caption">
+  System Diagram for Arc as presented at NeurIPS 2025
+</div>
 
 ## Outcome
 
