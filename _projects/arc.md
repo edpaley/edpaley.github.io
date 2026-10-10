@@ -23,7 +23,7 @@ related_publications: true
 
 Two or three sentences on what the project is, the problem it addresses, and who it's for.
 
-This work was published at VENUE {% cite YOUR_BIB_KEY %}.
+This work was published at NuerIPS 2025 {% cite Sensorium Arc %}. Additionally, it was installed and exhibited at NeurIPS 2025, CVPR2026, AI+ Expo 2026, and DC Climate Week 2026. Arc was also invited to a technical presentation at ACM SIGGRAPH DAC (SPARKS March 2026).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
