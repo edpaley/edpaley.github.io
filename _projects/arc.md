@@ -49,7 +49,7 @@ How you built it, and one or two interesting design or technical challenges you 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/photo4.jpg" title="photo 4" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/sensorium_diagram.png" title="System Diagram for NuerIPS 2025" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/projects/photo5.jpg" title="photo 5" class="img-fluid rounded z-depth-1" %}
