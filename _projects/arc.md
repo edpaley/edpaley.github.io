@@ -46,16 +46,10 @@ Co-architected the multi-agent AI framework, designing agent roles, data retriev
 
 How you built it, and one or two interesting design or technical challenges you solved.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/sensorium_diagram.png" title="System Diagram for NuerIPS 2025" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project/sensorium_diagram.png" title="System Diagram for NeurIPS 2025" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/photo5.jpg" title="photo 5" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption for these two photos.
 </div>
 
 ## Outcome
