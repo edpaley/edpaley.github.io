@@ -8,8 +8,13 @@ category: work
 related_publications: true
 ---
 
-{% include video.liquid path="https://www.youtube.com/embed/gi6MvuuJXrc" class="img-fluid rounded z-depth-1" %}
-
+<iframe
+  src="https://www.youtube.com/embed/gi6MvuuJXrc"
+  style="width: 100%; aspect-ratio: 16 / 9; border: 0;"
+  class="rounded z-depth-1"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
 <div class="caption">
     <!-- Caption describing what the video shows. -->
 </div>
