@@ -27,14 +27,14 @@ This work was published at VENUE {% cite YOUR_BIB_KEY %}.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/photo1.jpg" title="photo 1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/sensorium_module.png" title="photo 1" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <!-- <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/photo2.jpg" title="photo 2" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/photo3.jpg" title="photo 3" class="img-fluid rounded z-depth-1" %}
-    </div>
+    </div> -->
 </div>
 <div class="caption">
     Caption for the three photos.
