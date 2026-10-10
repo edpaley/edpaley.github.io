@@ -29,20 +29,16 @@ This work was published at VENUE {% cite YOUR_BIB_KEY %}.
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/project/sensorium_module.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
-    <!-- <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/photo2.jpg" title="photo 2" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/photo3.jpg" title="photo 3" class="img-fluid rounded z-depth-1" %}
-    </div> -->
 </div>
 <div class="caption">
-    Caption for the three photos.
+  a) Exemplary setup for the Sensorium Arc exhibition. Users engage through a natural gesture, whispering into a seashell as if speaking to the ocean.
+  b) User interface before activation showing the sensors
+  c) Activated user interface showing the response from the system.
 </div>
 
 ## My Role
 
-What you did on the project and who you worked with.
+Co-architected the multi-agent AI framework, designing agent roles, data retrieval workflows, and Whisper STT voice processing while benchmarking LLMs for optimal performance. I also authored custom shaders to map and render image-based scientific datasets into real-time visuals. Following NeurIPS, I spearheaded the transition from a Unity-native ML setup (Sentis and UnDream) to a hybrid Python-Unity pipeline to maximize customizability and execution speed.
 
 ## Process
 
