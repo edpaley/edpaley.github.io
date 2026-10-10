@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: CS + Immersive Media at The University of Maryland · XR and visual media for social good
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p></p>
-    <p></p>
-    <p></p>
+    <p>BS Computer Science May</p>
+    <p>BS Immersive Media Design</p>
+    <p>University of Maryland,</p>
+    <p>College Park</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
