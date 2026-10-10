@@ -23,9 +23,8 @@ related_publications: true
 
 
 
-This work was published at NuerIPS 2025. Additionally, it was installed and exhibited at NeurIPS 2025, CVPR2026, AI+ Expo 2026, and DC Climate Week 2026. Arc was also invited to a technical presentation at ACM SIGGRAPH DAC (SPARKS March 2026).
+This work was published at NuerIPS 2025 {% cite arc %}. Additionally, it was installed and exhibited at NeurIPS 2025, CVPR2026, AI+ Expo 2026, and DC Climate Week 2026. Arc was also invited to a technical presentation at ACM SIGGRAPH DAC (SPARKS March 2026).
 
-{% bibliography --query @*[key=arc]* %}
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
