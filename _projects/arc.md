@@ -20,6 +20,8 @@ related_publications: true
 </div>
 
 ## Overview
+Sensorium Arc is an interactive AI installation that personifies the ocean, allowing users to explore complex marine science through natural, spoken conversation. As users speak with the system, the AI generates responses blending scientific insight with poetic narrative while dynamically triggering climate data visualizations. The project reimagines complex environmental data not as abstract numbers, but as an intuitive, living story.
+
 
 
 
