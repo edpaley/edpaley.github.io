@@ -5,7 +5,7 @@ description: AI-driven pipeline to automate creation of medical assets for XR tr
 img: assets/img/project/electric_pipette.png
 redirect: https://www.wikipedia.org/
 importance: 3
-category: work
+category: research
 ---
 
 Every project has a beautiful feature showcase page.
