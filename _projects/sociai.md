@@ -2,7 +2,7 @@
 layout: page
 title: SociAI (Study in-progress)
 description: An immersive VR system using AI-replicated human personas to study the impact of virtual social interactions on in-person collaboration.
-img: assets/img/3.jpg
+img: assets/img/project/sociai_temp.png
 importance: 2
 category: research
 giscus_comments: true
