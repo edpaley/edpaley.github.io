@@ -43,15 +43,15 @@ This work was published at NuerIPS 2025 {% cite arc %}. Additionally, it was ins
 
 Co-architected the multi-agent AI framework, designing agent roles, data retrieval workflows, and Whisper STT voice processing while benchmarking LLMs for optimal performance. I also authored custom shaders to map and render image-based scientific datasets into real-time visuals. Following NeurIPS, I spearheaded the transition from a Unity-native ML setup (Sentis and UnDream) to a hybrid Python-Unity pipeline to maximize customizability and execution speed.
 
-<div class="caption">
-  System Diagram for Arc as presented at NeurIPS 2025
-</div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/project/sensorium_diagram.png" title="System Diagram for NeurIPS 2025" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
+<div class="caption">
+  System Diagram for Arc as presented at NeurIPS 2025
+</div>
 
 ## Process
 
