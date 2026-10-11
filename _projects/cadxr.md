@@ -15,4 +15,4 @@ This project will explore strategies to optimize XR development by establishing 
 I am currently the sole developer working on this project. I'll be delivering my first progress update on Wednesday, October 28, 2026 at MIXR's Mid-Year Industry Advisory Board Progress Meeting.
 
 
-This project is being conducted under the supervision of Dr. [Sarah Murthi]{https://www.umaryland.edu/um-bild/accelerator-awardees/cohort-1/murthi.php} and the Center for Medical Innovation in eXtended Reality [(MIXR)]{https://www.mixrcenter.org/}
+This project is being conducted under the supervision of Dr. [Sarah Murthi](https://www.umaryland.edu/um-bild/accelerator-awardees/cohort-1/murthi.php) and the Center for Medical Innovation in eXtended Reality [(MIXR)](https://www.mixrcenter.org/)
