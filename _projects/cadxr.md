@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: CAD-XR-Pipeline
+description: AI-driven pipeline to automate creation of medical assets for XR training
+img: assets/img/project/electric_pipette.png
 redirect: https://www.wikipedia.org/
 importance: 3
 category: work
