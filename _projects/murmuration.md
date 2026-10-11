@@ -2,7 +2,7 @@
 layout: page
 title: Murmuration
 description: Flocking simulation created with compute shaders
-img: 
+img: assets/img/project/murmuration_thumb.png
 importance: 3
 category: school
 ---
