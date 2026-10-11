@@ -14,3 +14,8 @@ category: school
   allow="autoplay"
   allowfullscreen>
 </iframe>
+
+
+<a href="https://github.com/edpaley/IMDM327-Final" target="_blank" class="btn btn-sm z-depth-0" role="button" style="border: 1px solid; margin-right: 6px;">
+  <i class="fa-brands fa-github"></i> Code
+</a>
