@@ -4,7 +4,7 @@ title: Sensorium Arc
 description: AI Agent System for Oceanic Data Exploration and Interactive Eco-Art
 img: assets/img/publication_preview/sensorium_preview.png
 importance: 1
-category: work
+category: research
 related_publications: true
 ---
 
