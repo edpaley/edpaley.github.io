@@ -8,13 +8,11 @@ category: research
 ---
 
 ## Overview
-Sensorium Arc is an interactive AI installation that personifies the ocean, allowing users to explore complex marine science through natural, spoken conversation. As users speak with the system, the AI generates responses blending scientific insight with poetic narrative while dynamically triggering climate data visualizations. The project reimagines complex environmental data not as abstract numbers, but as an intuitive, living story.
+This project will explore strategies to optimize XR development by establishing an automated pipeline to convert heavy, manufacturing-focused CAD geometry into spatial assets. The goal is to combine CAD tessellation, retopology, and fine-tuned multimodal AI to automate material identification and streamline the asset conversion workflow. Future iterations will expand this framework to support rigged models and moving components, laying the foundation for automated animation handling in XR environments.
 
-
-
-
-This work was published at NuerIPS 2025 {% cite arc %}. Additionally, it was installed and exhibited at NeurIPS 2025, CVPR2026, AI+ Expo 2026, and DC Climate Week 2026. Arc was also invited to a technical presentation at ACM SIGGRAPH DAC (SPARKS March 2026).
 
 ## My Role
+I am currently the sole developer working on this project. I'll be delivering my first progress update on Wednesday, October 28, 2026 at MIXR's Mid-Year Industry Advisory Board Progress Meeting.
 
-Co-architected the multi-agent AI framework, designing agent roles, data retrieval workflows, and Whisper STT voice processing while benchmarking LLMs for optimal performance. I also authored custom shaders to map and render image-based scientific datasets into real-time visuals. Following NeurIPS, I spearheaded the transition from a Unity-native ML setup (Sentis and UnDream) to a hybrid Python-Unity pipeline to maximize customizability and execution speed.
+
+This project is being conducted under the supervision of Dr. [Sarah Murthi]{https://www.umaryland.edu/um-bild/accelerator-awardees/cohort-1/murthi.php} and the Center for Medical Innovation in eXtended Reality [(MIXR)]{https://www.mixrcenter.org/}
