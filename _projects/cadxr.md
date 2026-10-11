@@ -3,7 +3,7 @@ layout: page
 title: CAD-XR-Pipeline
 description: AI-driven pipeline to automate creation of medical assets for XR training
 img: assets/img/project/electric_pipette.png
-importance: 3
+importance: 2
 category: research
 ---
 
