@@ -8,7 +8,7 @@ category: school
 related_publications: false
 ---
 
-<a href="https://github.com/edpaley/REPO_NAME/releases/latest" target="_blank" class="btn btn-sm z-depth-0" role="button" style="border: 1px solid; margin-right: 6px;">
+<a href="https://github.com/edpaley/Stairactals/releases/latest" target="_blank" class="btn btn-sm z-depth-0" role="button" style="border: 1px solid; margin-right: 6px;">
   <i class="fa-solid fa-download"></i> Download
 </a>
 <a href="https://github.com/edpaley/REPO_NAME" target="_blank" class="btn btn-sm z-depth-0" role="button" style="border: 1px solid;">
