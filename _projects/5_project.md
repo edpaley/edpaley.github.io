@@ -2,7 +2,7 @@
 layout: page
 title: Stairactals
 description: Recursive staircases where every step becomes a staircase of its own, built with Blender Geometry Nodes.
-img: assets/img/projects/fractal-stairs/depth2.png
+img: assets/img/project/depth2.png
 importance: 2
 category: work
 related_publications: false
@@ -32,13 +32,13 @@ Fractal Stairs is a procedural staircase generator built with Blender Geometry N
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/fractal-stairs/depth0.png" title="Depth 0" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project/depth0.png" title="Depth 0" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/fractal-stairs/depth1.png" title="Depth 1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project/depth1.png" title="Depth 1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/fractal-stairs/depth2.png" title="Depth 2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project/depth2.png" title="Depth 2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -53,10 +53,10 @@ Fractal Stairs is a procedural staircase generator built with Blender Geometry N
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/fractal-stairs/interpolated.png" title="Interpolated depth" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project/interpolated.png" title="Interpolated depth" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/fractal-stairs/modifier-panel.png" title="Modifier panel" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project/modifier-panel.png" title="Modifier panel" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -70,7 +70,7 @@ The node tree builds a base staircase, then repeatedly places scaled copies of t
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/fractal-stairs/node-tree.png" title="Node tree" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project/node-tree.png" title="Node tree" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
