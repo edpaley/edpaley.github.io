@@ -5,7 +5,6 @@ description: An immersive VR system using AI-replicated human personas to answer
 img: assets/img/project/sociai_temp.png
 importance: 3
 category: research
-giscus_comments: true
 ---
 
 ## Overview
