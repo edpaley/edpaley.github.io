@@ -22,7 +22,7 @@ category: school
 
 
 
-For my final, I propose Murmuration, a single-user virtual reality experience. I’ve always
+For my IMDM327 (Fall 2025) final, I propose Murmuration, a single-user virtual reality experience. I’ve always
 loved birds. After growing up with screeching birdy siblings, I sometimes wonder how. My
 family’s parrots, Tommy and Gandy, are up at the crack of dawn every day, yelling and banging
 for their breakfast veggies. They get jealous of each other and will hold a grudge. Last winter, I
