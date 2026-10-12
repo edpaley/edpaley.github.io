@@ -50,6 +50,6 @@ The node tree builds a base staircase, then repeatedly places scaled copies of t
 
 ## Get It
 
-The .blend file, setup instructions, and parameter reference are available on [GitHub](https://github.com/edpaley/REPO_NAME){:target="_blank"}.
+The .blend file, setup instructions, and parameter reference are available on [GitHub](https://github.com/edpaley/Stairactals){:target="_blank"}.
 
 **Tools:** Blender, Geometry Nodes
