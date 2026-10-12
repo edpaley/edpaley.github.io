@@ -4,7 +4,7 @@ title: Stairactals
 description: Recursive staircases where every step becomes a staircase of its own, built with Blender Geometry Nodes.
 img: assets/img/project/depth2.png
 importance: 2
-category: work
+category: school
 related_publications: false
 ---
 
