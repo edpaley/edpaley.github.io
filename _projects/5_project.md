@@ -1,80 +1,84 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Stairactals
+description: Recursive staircases where every step becomes a staircase of its own, built with Blender Geometry Nodes.
+img: assets/img/projects/fractal-stairs/depth2.png
+importance: 2
+category: work
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<a href="https://github.com/edpaley/REPO_NAME/releases/latest" target="_blank" class="btn btn-sm z-depth-0" role="button" style="border: 1px solid; margin-right: 6px;">
+  <i class="fa-solid fa-download"></i> Download
+</a>
+<a href="https://github.com/edpaley/REPO_NAME" target="_blank" class="btn btn-sm z-depth-0" role="button" style="border: 1px solid;">
+  <i class="fa-brands fa-github"></i> Code
+</a>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<iframe
+  src="https://www.youtube.com/embed/VIDEO_ID"
+  style="width: 100%; aspect-ratio: 16 / 9; border: 0; margin-top: 1rem;"
+  class="rounded z-depth-1"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+<div class="caption">
+    Depth animating from 0 to 2 in the interpolated version.
+</div>
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## Overview
+
+Fractal Stairs is a procedural staircase generator built with Blender Geometry Nodes. Starting from a simple flight of stairs, the system recursively replaces each step with a smaller staircase of its own, and each of those steps with another, producing a self-similar form that becomes more intricate with every level of depth.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/fractal-stairs/depth0.png" title="Depth 0" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/fractal-stairs/depth1.png" title="Depth 1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/fractal-stairs/depth2.png" title="Depth 2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Depth 0, 1, and 2 with 5 steps. Each level turns every step into a staircase of its own.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## Two Versions
+
+**Standard:** Depth is a whole number. Each increment adds a full level of recursion, subdividing every step into a new staircase.
+
+**Interpolated:** Depth is a float. Fractional values blend between recursion levels, so the next generation of steps grows smoothly out of the previous one instead of appearing all at once. This makes depth animatable: keyframing it produces a staircase that continuously unfolds into finer detail.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/fractal-stairs/interpolated.png" title="Interpolated depth" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/fractal-stairs/modifier-panel.png" title="Modifier panel" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Left: depth 0.5 in the interpolated version, with the next level of steps partially formed.<br>
+    Right: all parameters are exposed in the modifier panel.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## How It Works
 
-{% raw %}
+The node tree builds a base staircase, then repeatedly places scaled copies of that staircase onto each step, with the depth input controlling how many times this happens. Length, width, steps, and depth are exposed in the modifier panel, so the structure can be adjusted without opening the node tree.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/projects/fractal-stairs/node-tree.png" title="Node tree" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-```
+<div class="caption">
+    The Geometry Nodes tree.
+</div>
 
-{% endraw %}
+## Get It
+
+The .blend file, setup instructions, and parameter reference are available on [GitHub](https://github.com/edpaley/REPO_NAME){:target="_blank"}.
+
+**Tools:** Blender, Geometry Nodes
