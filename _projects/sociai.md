@@ -16,5 +16,7 @@ User Studies are currently running as of Fall 2026, with more information relati
 ## My Role
 I was the sole engineer for designing and creating a VR system for one-on-one conversations with an AI-driven human replica. I architected the end-to-end full stack, building a local HTTP network that connected a Unity VR client with a Python inference backend. On the backend, I integrated a local RAG pipeline using Hugging Face transformers with Llama-3.2-3B and fine-tuned an XTTS model for likeness and to stream 24kHz audio directly into Unity for real-time avatar voice synthesis.
 
+{% include figure.liquid path="assets/img/project/sociai_diagram.png" title="Interpolated depth" class="img-fluid rounded z-depth-1" %} 
+
 
 This project is being conducted under the supervision of Prof. [Huaishu Peng](https://huaishu.me/) and Prof. [Myungin Lee](https://www.myunginlee.com/).
