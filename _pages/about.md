@@ -32,7 +32,7 @@ latest_posts:
 
 <iframe
   src="https://www.youtube.com/embed/gi6MvuuJXrc"
-  style="width: 100%; aspect-ratio: 16 / 9; border: 0;"
+  style="width: 75%; aspect-ratio: 16 / 9; border: 0;"
   class="rounded z-depth-1"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
