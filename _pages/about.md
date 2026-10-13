@@ -28,17 +28,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 
 ---
-## highlighted work
-
-<iframe
-  src="https://www.youtube.com/embed/gi6MvuuJXrc"
-  style="width: 75%; aspect-ratio: 16 / 9; border: 0;"
-  class="rounded z-depth-1"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen>
-</iframe>
-
-{% bibliography --query @*[key=arc]* %}
 
 
 Heya, I'm Eila, a student at the University of Maryland, College Park pursuing a dual degree in [Computer Science](https://www.cs.umd.edu/) and [Immersive Media Design](https://imd.umd.edu/), graduating May 2028. I'm fascinated by the process of creation, and bringing something new into the world to help or inspire others.
@@ -48,3 +37,16 @@ Over the last year I've been doing research Prof. [Myungin Lee](https://www.myun
 My professional work intersects computer science and art, and I'm drawn to projects that use immersive media for social good, particularly in health or climate. My personal interests include game development as well as visual art, largely sculpture and drawing. 
 
 I plan to apply for graduate programs in a human-computer interaction or similar for Fall 2028.
+
+
+## highlighted work
+
+<iframe
+  src="https://www.youtube.com/embed/gi6MvuuJXrc"
+  style="width: 100%; aspect-ratio: 16 / 9; border: 0;"
+  class="rounded z-depth-1"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+
+{% bibliography --query @*[key=arc]* %}
