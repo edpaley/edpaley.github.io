@@ -26,6 +26,20 @@ latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
+## highlighted work
+
+<iframe
+  src="https://www.youtube.com/embed/gi6MvuuJXrc&t"
+  style="width: 100%; aspect-ratio: 16 / 9; border: 0;"
+  class="rounded z-depth-1"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+
+{% bibliography --query @*[key=arc]* %}
+
+  
 ---
 
 
