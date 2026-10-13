@@ -27,6 +27,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
+---
 ## highlighted work
 
 <iframe
@@ -38,9 +39,6 @@ latest_posts:
 </iframe>
 
 {% bibliography --query @*[key=arc]* %}
-
-  
----
 
 
 Heya, I'm Eila, a student at the University of Maryland, College Park pursuing a dual degree in [Computer Science](https://www.cs.umd.edu/) and [Immersive Media Design](https://imd.umd.edu/), graduating May 2028. I'm fascinated by the process of creation, and bringing something new into the world to help or inspire others.
